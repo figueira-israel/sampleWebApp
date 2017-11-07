@@ -84,6 +84,11 @@ Also show cases the 'Simple Logging Framework - slf4j'.</description>
 		</dependency>
 
 		<!-- Logging dependencies -->
+		<dependency> 
+  			<groupId>org.slf4j</groupId>
+ 			 <artifactId>slf4j-log4j12</artifactId>
+ 			 <version>1.8.0-alpha2</version>
+		</dependency>	
 
 		<dependency>
 			<groupId>log4j</groupId>
